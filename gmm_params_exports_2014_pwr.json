@@ -1,0 +1,1 @@
+{"n_components": 6, "covariance_type": "diag", "init_params": "kmeans", "max_iter": 100, "tol": 0.001, "reg_covar": 1e-06, "n_init": 5, "BIC": -2589.2062619090884}
